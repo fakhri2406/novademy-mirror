@@ -1,2 +1,3 @@
 rootProject.name = 'novademy-mirror'
 include 'novademy-contracts'
+include 'novademy-application'
